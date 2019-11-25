@@ -1,0 +1,19 @@
+{
+  "name": "express-basics-exercise",
+  "version": "1.0.0",
+  "description": "Express Basics exercise from Colt Steele's Web Developer Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Express",
+    "exercise"
+  ],
+  "author": "Tom Monks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
